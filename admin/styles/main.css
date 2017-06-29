@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+/*共用*/
+.comWidth{width:1000px;margin-left:auto;margin-right:auto;}
+.leftArea{float:left;}
+.rightArea{float:right;}
+.hide{display:none;}
+.show{display:block;}
+.fr{float:right;}
+.fl{float:left;}
+
+/*topbar*/
+.topBar{height:31px;background:#f7f7f7;line-height:31px;}
+.collection{background:url() left center no-repeat;padding-left:19px;font-weight:bold;}
+.topBar a:hover{color:#ffd700;}
+
+/*logo*/
+.logoBar{height:85px;background:#1d7ad9;}
+.logo{padding-left:41px;padding-top:13px;}
+
+/*登录*/
+.login_logo .comWidth{width:460px;}
+.login_logo .logo{margin-right:60px;}
+.welcome_tit{font:22px "MicrosoftYaHei","微软雅黑";color:#fff;line-height:85px;float:left;padding-left:24px;}
+.loginBox{width:458px;border:#999 solid 1px;margin:10px auto;position:relative;}
+.login_cont{padding:15px 76px;}
+.l_tit{color:#666;line-height:20px;}
+.login_input{border:#999 solid 1px;heigth:32px;line-height:32px;text-indent:5px;width:100%;}
+.mb_10{margin-bottom:10px;}
+.mb_20{margin-top:23px;}
+.autoLogin{padding-top:27px;margin-bottom:10px;}
+.check{position:relative;top:3px;}
+.login_btn{width:309px;heigth:36px;line-height:36px;background:#999;}
+.login_partners{padding-top:34px;}
+.login_list{margin-bottom:10px;}
+.login_list li{float:left;line-height:20px;}
+.login_list span{color:#999;margin:0 2px;}
+.verify{border:#999 solid 1px;margin-right:20px;}
+.img_change{font-size:18px;font-family:"MicrosoftYaHei","微软雅黑";}
+
+/*底部*/
+.footer{background:#ccc;text-align:center;line-height:24p;padding:50px 0;margin-top:35px;}
+.footer i{font-style:normal;margin:0 5px;}
+.footer a{color:#000;}
+.footer a:hover{color:#f60;}
+.hr_7{height:7px;overflow:hidden;}
+.hr_15{height:15px;overflow:hidden;}
+.hr_25{height:25px;overflow:hidden;}
